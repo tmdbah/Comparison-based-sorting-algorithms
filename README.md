@@ -1,6 +1,6 @@
 # Comparison-based-sorting-algorithms
 
-In this project we will implement, test &amp; analyze the comparison-based sorting algorithms:
+In this project we will implement, test &amp; analyze some comparison-based sorting algorithms:
 
 This project has multiple source code files, each corresponding to the algorithms as listed below:
 
