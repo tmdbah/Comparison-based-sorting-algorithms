@@ -18,3 +18,5 @@ For all programs, the results will show the time taken by the algorithm to sort 
 The input array size is hardcoded. That means, to check for different input sizes, manual changes to the value of input will be required. The value of input size is specified as integer n (int n) under the main class for all algorithms.
 
 For all algorithm, we have used array data structure to implement the sorting functions.
+
+@authors TJ Bah & Ria Banerjee
